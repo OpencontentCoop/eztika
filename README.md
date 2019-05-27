@@ -28,8 +28,8 @@ License GNU GPL 2.0 - [Apache Tika](https://tika.apache.org/) is licensed with t
 
 1. Extract the eztika extension, and place it in the extensions folder.
 
-2. Check if extension/eztika/bin files are executeable by the webserver
-
+2. Check if extension/eztika/bin files are executeable by the webserver `chmod +x extension/eztika/bin/eztika`
+   
    OR
 
    Copy the eztika shell script and tika-app-*version*.jar from the extension bin folder to a
